@@ -1,0 +1,14 @@
+Botanist coordinates:(9,6)
+Number of collected flowers: 3
+Number of bottle: 97
+
+T,T,T,T,T,T,T,T,T,T
+ , , , ,T,T, , , ,T
+T, ,T, , , , ,T, ,T
+T, ,T,T,T,T, ,T, ,T
+T, ,T, , , , ,T,T,T
+T, ,T, ,T, , , , ,T
+T, ,T, ,T,T,T,T,T,T
+T, ,T, , , , , , ,T
+T, ,T,T,T,T, ,T, ,T
+T, , ,T, ,T,B,T,T,T
